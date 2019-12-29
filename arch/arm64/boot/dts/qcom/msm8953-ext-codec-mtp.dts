@@ -81,9 +81,11 @@
 	status = "okay";
 };
 
+/* WTF
 &cdc_us_euro_sw {
 	status = "okay";
 };
+*/
 
 &cdc_quin_mi2s_gpios {
 	status = "okay";

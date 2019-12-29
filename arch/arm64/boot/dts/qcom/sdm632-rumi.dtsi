@@ -14,7 +14,7 @@
 &blsp1_serial1 {
 	status = "ok";
 	pinctrl-names = "default";
-	pinctrl-0 = <&uart1_console_active>;
+	//pinctrl-0 = <&uart1_console_active>; WTF
 };
 
 &wdog {

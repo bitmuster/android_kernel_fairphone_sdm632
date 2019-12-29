@@ -26,7 +26,8 @@
 	status = "okay";
 };
 
-&blsp2_uart1 { /* UART6 */
+/* WTF
+&blsp2_uart1 { / UART6 /
 	status = "okay";
 };
-
+*/
